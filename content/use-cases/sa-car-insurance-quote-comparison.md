@@ -21,7 +21,7 @@ author:
 prompt_provenance: author
 replicability: "Works for any SA short-term motor policy. Swap the insurer list freely. Personal details go into quote forms only with your yes, and identity numbers stay in the vault, so the routine is safe to share with family."
 added_at: "2026-10-29T00:00:00Z"
-updated_at: "2026-10-29T00:00:00Z"
+updated_at: "2026-10-30T00:00:00Z"
 status: proposed
 ---
 
@@ -49,7 +49,8 @@ Comparison:
 2. Draft one like-for-like quote profile and show it to me first: car make/model/year, use, overnight parking, regular drivers, claims in the last 3 years, and the cover I want. Get my yes before typing it into any quote form, and share only what that form needs.
 3. Get quotes from the official sites only (e.g. discovery.co.za, outsurance.co.za, santam.co.za (via broker), kingprice.co.za, naked.insure, miway.co.za, budget.co.za, dialdirect.co.za, hollard.co.za). Use my current insurer's retention line as one "quote" too. If a site requires a phone call or a broker, draft a call script.
 4. Put everything in a Google Sheet with insurer, monthly premium, yearly total, each excess, insured value basis, tracker required? (ask each insurer for my exact vehicle; requirements differ), car hire, windscreen, notable exclusions, quote validity, and the link to the quote page. Rank by total yearly cost at equal cover.
-5. Tell me the 2-3 questions to ask before choosing (e.g. "is the premium fixed for 12 months?", "does theft cover lapse if the tracker isn't working?").
+5. Check my current policy for cash-back, loyalty or no-claim bonuses (e.g. cash back after 3 claim-free years) and when they pay out. Switching or cancelling before then can forfeit them, so show what I'd lose next to the savings.
+6. Tell me the 2-3 questions to ask before choosing (e.g. "is the premium fixed for 12 months?", "does theft cover lapse if the tracker isn't working?").
 
 Hard rules:
 - Never buy or accept a policy, sign a debit order, give consent to a credit check, or cancel my existing cover without my explicit go-ahead in this chat.

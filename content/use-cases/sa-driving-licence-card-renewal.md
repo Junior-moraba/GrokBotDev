@@ -20,7 +20,7 @@ author:
 prompt_provenance: author
 replicability: "Built for Gauteng, where NaTIS Online slot booking works. In other provinces, swap step 3 for your local DLTC's booking process. Keep your licence number and ID in the vault, not in chat."
 added_at: "2026-10-29T00:00:00Z"
-updated_at: "2026-10-29T00:00:00Z"
+updated_at: "2026-10-30T00:00:00Z"
 status: proposed
 ---
 
@@ -55,6 +55,7 @@ Hard rules:
 - No payments, form submissions or slot acceptances without my explicit go-ahead in this chat.
 - Never write my ID or licence number in chat or files. Use the vault and fill it in only on the official site while I watch.
 - Propose calendar events for the appointment and the collection. Create them only after I approve.
+- NaTIS Online (online.natis.gov.za) may drop connections from outside South Africa. If it won't load, route the browser through my own SA connection (Grok Bot's route-traffic-through-my-computer setting) or tell me to do the NaTIS step myself. Never use a mirror or agent site instead.
 ```
 
 ## Why it's cool
@@ -62,6 +63,8 @@ Hard rules:
 Renewing a South African licence card has become a planning problem more than paperwork. Slots are allocated, not chosen, a missed acceptance window puts you back in the queue, and the card printer has had well-publicised backlogs. A monthly routine that starts six months out, keeps the checklist ready, and watches whether the 10-year validity change has become law turns a stressful last-minute DLTC trip into a booked appointment.
 
 ## Sources
+
+Tested 30 Oct 2026: from a non-SA network, online.natis.gov.za dropped the connection with no error page, so the slot request step could not be reached.
 
 Checked 29 Oct 2026 (SAST).
 

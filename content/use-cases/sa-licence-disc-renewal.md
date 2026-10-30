@@ -20,7 +20,7 @@ author:
 prompt_provenance: author
 replicability: "Works in any South African province: NaTIS Online is national. Swap the bank app for your own bank (FNB, Nedbank, Standard Bank, Absa, Capitec), and keep your ID and registration number in the vault rather than in chat."
 added_at: "2026-10-29T00:00:00Z"
-updated_at: "2026-10-29T00:00:00Z"
+updated_at: "2026-10-30T00:00:00Z"
 status: proposed
 ---
 
@@ -50,6 +50,7 @@ The renewal brief:
 4. Penalty warning: after the grace period, late-licensing penalties and arrears apply. Quote the amount only if an official source shows it; otherwise say "penalty amount not confirmed".
 
 Hard rules:
+- NaTIS Online (online.natis.gov.za) may drop connections from outside South Africa. If it won't load, route the browser through my own SA connection (Grok Bot's route-traffic-through-my-computer setting) or tell me to do the NaTIS step myself. Never use a mirror or agent site instead.
 - Use only official sites (natis.gov.za, rtmc.co.za, aarto.gov.za, gauteng.gov.za, gov.za) or my own bank's app. Never use a third-party "renewal agent" site.
 - Never pay, submit a form, or accept terms without my explicit go-ahead in this chat, given after you have shown me the exact amount due.
 - Never write my ID number, card details or passwords in chat or in files. Read them from the vault only on the official form while I watch.
@@ -61,6 +62,8 @@ Hard rules:
 The fee itself is small. What hurts is a disc that quietly expires and starts piling up penalties, or a renewal that fails at the counter because of an AARTO enforcement order you didn't know about. This routine checks for blocks first and then compares the official online route with your bank app, so the renewal takes ten minutes instead of a morning in a licensing queue. It still stops at the payment screen.
 
 ## Sources
+
+Tested 30 Oct 2026: from a non-SA network, online.natis.gov.za dropped the connection with no error page.
 
 Checked 29 Oct 2026 (SAST).
 
